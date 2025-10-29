@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\19768\source\repos\Projectexp3\main.cpp(8,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Projectexp3.vcxproj -> C:\Users\19768\source\repos\Projectexp3\x64\Debug\Projectexp3.exe
